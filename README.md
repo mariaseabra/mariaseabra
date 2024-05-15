@@ -14,11 +14,13 @@ I hold a degree in International Relations and am now studying Data Science & Bu
 
 <img align="right" alt="" height="200px" src="https://private-user-images.githubusercontent.com/74038190/240820597-a762dc06-3a4c-432e-8679-a99fe8a433b7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU3NjU5NTUsIm5iZiI6MTcxNTc2NTY1NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjA1OTctYTc2MmRjMDYtM2E0Yy00MzJlLTg2NzktYTk5ZmU4YTQzM2I3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE1VDA5MzQxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlOWUzMmVlM2U2MWM1Y2IyZDM3MGVlMjBiMzU3Y2M4ODQ5OWFmOTY0ZjlmM2M0YjA2OTVhNzJjMWQxODVhOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ElQq3GuPD-eWE45tTxeJJZ8fNxpeD6b3JlaGbkizbcI">
 
-- :telescope: I’m working as a Data Operations Specialist at [Mosano](https://mosano.eu/) and contributing to data modelling, business analytics & machine learning projects.
+- 🚀 I’m working as a Data Operations Specialist at [Mosano](https://mosano.eu/) and contributing to data modelling, business analytics & machine learning projects.
 
 - :seedling: Exploring ML algorithms and Python libraries.
 
 - :zap: When I'm not working or volunteering, I might be travelling, learning code or reading about the Austrian School of Economics.
+
+- 👀 I'm still learning how to use GitHub, so feel free to give some advice!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
