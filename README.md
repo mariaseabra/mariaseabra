@@ -48,9 +48,9 @@ I hold a degree in International Relations and am now studying Data Science & Bu
 
 ---
 ### 📫 Let's connect!
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00FFFF&color:FFF)](mailto:seabraduda@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&color:FFF)](https://www.linkedin.com/in/mariaseabra/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FFFF&color:FFF)](https://www.instagram.com/mariaaseabra/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=A020F0&color:FFF)](mailto:seabraduda@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A020F0&color:FFF)](https://www.linkedin.com/in/mariaseabra/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=A020F0&color:FFF)](https://www.instagram.com/mariaaseabra/)
 
 ---
 ### :fire: My Stats :
