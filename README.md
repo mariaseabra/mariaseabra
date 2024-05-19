@@ -25,7 +25,7 @@ I hold a degree in International Relations and am now studying Data Science & Bu
 
 - :zap: When I'm not working or volunteering, I might be travelling, learning code or reading about the Austrian School of Economics.
 
-- 🌎 Yo parle four línguas.
+- 🌎 I speak foour languages (pt, eng, fr, and es).
 
 - 👀 I'm still learning how to use GitHub, so feel free to give some advice!
 
