@@ -58,7 +58,7 @@ I hold a degree in International Relations and am now studying Data Science & Bu
 
 ---
 ### 📫 Hit me up!
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=A020F0&color:FFF)](mailto:seabraduda@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=A020F0)](mailto:seabraduda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A020F0&color:FFF)](https://www.linkedin.com/in/mariaseabra/)
 [![Upwork](https://img.shields.io/badge/-Upwork-000?style=for-the-badge&logo=upwork&logoColor=A020F0&color:FFF)](https://www.upwork.com/freelancers/~01a862c7812c0c459b)
 
