@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=mariaseabra&style=flat-square&color=blue" alt=""/>
 </div>
 
-# Hi there! I'm Maria Seabra <img src="https://camo.githubusercontent.com/5e7db7b3e85cae70afcbb89a825f85d9e093d7eb295026395e463ab22ca92688/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" alt="" width="40" height="40"/>
+# Hi there! I'm Maria Seabra <img src="[https://camo.githubusercontent.com/5e7db7b3e85cae70afcbb89a825f85d9e093d7eb295026395e463ab22ca92688/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966]" alt="" width="40" height="40"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9033F7&random=false&width=435&lines=%F0%9F%AA%84+Data+Wizard;%F0%9F%87%A7%F0%9F%87%B7+From+Recife+in+Lisbon+%F0%9F%87%B5%F0%9F%87%B9;%F0%9F%90%B6+Raising+a+blue-eyed+Beagle;%F0%9F%A4%9D+Let's+connect!)](https://git.io/typing-svg)
 
