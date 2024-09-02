@@ -7,7 +7,8 @@
 <img src="https://komarev.com/ghpvc/?username=mariaseabra&style=flat-square&color=blue" alt=""/>
 </div>
 
-# Hi there! I'm Maria Seabra <img src="[https://camo.githubusercontent.com/5e7db7b3e85cae70afcbb89a825f85d9e093d7eb295026395e463ab22ca92688/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966]" alt="" width="40" height="40"/>
+# Hi there! I'm Maria Seabra <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-laptop.gif" alt="" width="40" height="40"/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9033F7&random=false&width=435&lines=%F0%9F%AA%84+Data+Wizard;%F0%9F%87%A7%F0%9F%87%B7+From+Recife+in+Lisbon+%F0%9F%87%B5%F0%9F%87%B9;%F0%9F%90%B6+Raising+a+blue-eyed+Beagle;%F0%9F%A4%9D+Let's+connect!)](https://git.io/typing-svg)
 
@@ -15,13 +16,13 @@
 
 I'm a Northeastern Brazilian with an ESTJ-A personality. At the age of 17, I was admitted to 12 universities in 4 countries, including the University of Toronto and the University of Lisbon, the latter I chose as my home from 2020 until now.
 
-I hold a degree in International Relations and am now studying Data Science & Business Analytics (post graduation) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Avid learner, I enjoy working in multicultural environments, asking questions, and fearlessly engaging with the World. I've got experience in Data Operations, Community Operations, Data & Reporting, Business Development, customer & partner support, and Account Management.
+I hold a degree in International Relations and a post-graduation in Data Science & Business Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Avid learner, I enjoy working in multicultural environments, asking questions, and fearlessly engaging with the World. I've got experience in Data Operations, Community Operations, Data & Reporting, Business Development, customer & partner support, and Account Management.
 
 <img align="right" alt="" height="200px" src="https://private-user-images.githubusercontent.com/74038190/240820597-a762dc06-3a4c-432e-8679-a99fe8a433b7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU3NjU5NTUsIm5iZiI6MTcxNTc2NTY1NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjA1OTctYTc2MmRjMDYtM2E0Yy00MzJlLTg2NzktYTk5ZmU4YTQzM2I3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE1VDA5MzQxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlOWUzMmVlM2U2MWM1Y2IyZDM3MGVlMjBiMzU3Y2M4ODQ5OWFmOTY0ZjlmM2M0YjA2OTVhNzJjMWQxODVhOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ElQq3GuPD-eWE45tTxeJJZ8fNxpeD6b3JlaGbkizbcI">
 
 - 🚀 I’m working as a Data Operations Specialist at [Mosano](https://mosano.eu/) and contributing to data modelling, business analytics & machine learning projects.
 
-- :seedling: Exploring ML algorithms and Python libraries.
+- :seedling: Exploring ML algorithms and Python libraries. <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/party-wizard.gif" alt="" width="30" height="30"/>
 
 - :zap: When I'm not working or volunteering, I might be travelling, learning code or reading about the Austrian School of Economics.
 
